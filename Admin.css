@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding:0px;
+    border:0px;
+
+}
+
+
+body{
+    height: 93%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 3px;
+    padding: 15px;
+    background-color:mediumpurple;
+}
+
+
+td{
+    cursor: pointer;
+    border:1px solid black;
+}
+
+td.Saved{
+    color: rgb(163, 27, 122);
+    border-color: mediumvioletred;
+}
+
+td.Normal{
+    color: black;
+    border-color:black;
+
+}
+
+table, th, td {
+    border: 2px solid black;
+  }
